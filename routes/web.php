@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return 'hello  word';
+    return 'hello  commit';
 });
